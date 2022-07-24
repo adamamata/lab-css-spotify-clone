@@ -142,3 +142,7 @@ h3 {
   justify-content: space-between;
   align-items: center;
 }
+
+#featuresList {
+    padding: 20px;
+}
