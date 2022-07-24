@@ -113,7 +113,7 @@ h3 {
     background-color: #00B172;
     color: white;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin: 15px
 
 }
@@ -125,4 +125,8 @@ h3 {
 #bottomUnderline {
     background-color: white;
     width: 270px;
+}
+
+#sample {
+    width: 200px;
 }
