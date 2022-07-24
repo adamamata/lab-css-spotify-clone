@@ -115,7 +115,7 @@ h3 {
     background-color: #00B172;
     color: white;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 15px;
 }
 
@@ -131,4 +131,9 @@ h3 {
 #sample {
     padding: 60px;
     height: 350px;
+}
+
+#features {
+    display: flex;
+    align-items: center;
 }
