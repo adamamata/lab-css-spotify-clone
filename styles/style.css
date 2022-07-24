@@ -133,7 +133,12 @@ h3 {
     height: 350px;
 }
 
+#smallLogo {
+    height: 80px;
+}
+
 #features {
-    display: flex;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
