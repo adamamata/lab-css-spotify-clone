@@ -48,7 +48,7 @@ a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/landing.jpg);
+    background-image: url(/lab-css-spotify-clone/images/landing.jpg);
     background-size: 100%;
     color: white;
     height: 60vw;
